@@ -186,3 +186,5 @@ You can either download the related papers from this repository or in the follow
 > (Bajgar et al., 2016) Embracing data abundance: BookTest Dataset for Reading Comprehension
 <br/>https://arxiv.org/abs/1610.00956
 
+ cite: https://github.com/ymcui/Eval-on-NN-of-RC
+ 
